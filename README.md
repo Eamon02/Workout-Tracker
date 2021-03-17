@@ -1,7 +1,7 @@
 # Unit 17 NoSQL Homework: Workout Tracker
 
 [screenshot of main page](./pics/mainPage.png)
-[screenshot of main page](./pics/dashboard.png)
+[screenshot of dashboard](./pics/dashboard.png)
 
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
